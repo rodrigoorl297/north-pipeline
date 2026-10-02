@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "segment": "logistics",
+    "value": 47,
+    "status": "in_transit"
+  },
+  {
+    "id": 2,
+    "segment": "logistics",
+    "value": 54,
+    "status": "delivered"
+  },
+  {
+    "id": 3,
+    "segment": "logistics",
+    "value": 61,
+    "status": "created"
+  },
+  {
+    "id": 4,
+    "segment": "logistics",
+    "value": 68,
+    "status": "in_transit"
+  },
+  {
+    "id": 5,
+    "segment": "logistics",
+    "value": 75,
+    "status": "delivered"
+  },
+  {
+    "id": 6,
+    "segment": "logistics",
+    "value": 82,
+    "status": "created"
+  },
+  {
+    "id": 7,
+    "segment": "logistics",
+    "value": 89,
+    "status": "in_transit"
+  },
+  {
+    "id": 8,
+    "segment": "logistics",
+    "value": 96,
+    "status": "delivered"
+  },
+  {
+    "id": 9,
+    "segment": "logistics",
+    "value": 103,
+    "status": "created"
+  },
+  {
+    "id": 10,
+    "segment": "logistics",
+    "value": 110,
+    "status": "in_transit"
+  },
+  {
+    "id": 11,
+    "segment": "logistics",
+    "value": 117,
+    "status": "delivered"
+  },
+  {
+    "id": 12,
+    "segment": "logistics",
+    "value": 124,
+    "status": "created"
+  }
+]
